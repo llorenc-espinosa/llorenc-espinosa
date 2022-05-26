@@ -2,7 +2,7 @@
 - 👀 I’m interested in physical simulations in theoretical physics, quantum computing and data science
 - 🌱 I’m currently learning Pennylane
 - 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me ...
+- 📫 How to reach me -> via e-mail on llorenc.espinosa@uam.es
 
 <!---
 llorenc-espinosa/llorenc-espinosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
