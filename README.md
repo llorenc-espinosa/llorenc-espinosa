@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @llorenc-espinosa, a physicist and PhD candidate
 - 👀 I’m interested in physical simulations in theoretical physics, quantum computing and data science
-- 🌱 I’m currently learning Pennylane
+- 🌱 I’m currently learning IBM Qiskit
 - 💞️ I’m looking to collaborate on quantum computing and machine learning projects.
 - 📫 How to reach me -> via e-mail on llorenc.espinosa@uam.es
 
