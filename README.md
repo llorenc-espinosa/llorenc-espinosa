@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @llorenc-espinosa, a physicist and PhD candidate
-- 👀 I’m interested in physical simulations in theoretical physics, quantum computing and data science
-- 🌱 I’m currently learning IBM Qiskit
-- 💞️ I’m looking to collaborate on quantum computing and machine learning projects.
-- 📫 How to reach me -> via e-mail on llorenc.espinosa@uam.es
+- 👋 Hi, I’m @llorenc-espinosa, a PhD in Theoretical Physics working in deep-tech industry
+- 👀 I’m interested in ML & AI, quantum computing (together or not), physics and mathematics
+- 🌱 I’m currently learning Bioinformatics & Field Theory approaches to Deep Learning
+- 💞️ I’m always looking to collaborate and share ideas!
+- 📫 How to reach me -> via e-mail on llorenc.espinosa@gmail.es
 
 <!---
 llorenc-espinosa/llorenc-espinosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
